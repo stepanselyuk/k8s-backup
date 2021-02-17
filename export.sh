@@ -126,6 +126,6 @@ done
 
 cd "$ROOT_DIR" || exit 103
 
-git add .
-git commit -am "Backup ${branch}"
-git push -u origin "$branch"
+#git add .
+#git commit -am "Backup ${branch}"
+#git push -u origin "$branch"
